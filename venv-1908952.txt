@@ -1,0 +1,5 @@
+Collecting terminal_banner
+  Downloading terminal_banner-0.2.0-py2.py3-none-any.whl (5.2 kB)
+Installing collected packages: terminal-banner
+Successfully installed terminal-banner-0.2.0
+
